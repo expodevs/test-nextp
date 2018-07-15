@@ -1,0 +1,17 @@
+{
+    "name": "expo-devs",
+    "version": "0.0.0",
+    "authors": [
+      "expo devs"
+    ],
+    "license": "MIT",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "tasks"
+    ],
+    "dependencies": {
+      "jquery": "2.*"
+    }
+  }
